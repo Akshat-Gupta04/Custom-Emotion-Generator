@@ -6,11 +6,10 @@ A powerful tool that generates expressive facial animations from a single refere
 
 Custom Emotion Generator uses advanced AI techniques to manipulate facial expressions in still images. With a simple and intuitive UI, you can adjust various parameters to create realistic emotional responses, including happiness, sadness, anger, surprise, and more.
 
-![Custom Emotion Generator Screenshot](https://raw.githubusercontent.com/yourusername/custom-emotion-generator/main/assets/screenshot.jpg)
+![Custom Emotion Generator](demo/Screenshot 2025-03-29 at 1.41.45 PM.png)
 
 ## Features
 
-- **Single Image Animation**: Generate expressive animations from just one reference photo
 - **Preset Expressions**: Choose from predefined emotional states like Happy, Sad, Angry, Sleepy, Winking, Thinking, and Surprised
 - **Custom Expression Controls**: Fine-tune specific facial aspects:
   - Face rotation (pitch, yaw, roll)
@@ -19,7 +18,8 @@ Custom Emotion Generator uses advanced AI techniques to manipulate facial expres
 - **Advanced Settings**: Adjust technical parameters for better results
 - **Image Restoration**: Optional enhancement using RealESRGAN
 - **Custom Presets**: Save and load your favorite expression settings
-- **Internationalization Support**: Multi-language interface
+- **User-Friendly Interface**: Intuitive controls and clear feedback
+
 
 ## Technical Details
 
@@ -229,11 +229,11 @@ The UI is built with Gradio and structured into several components:
 
 ## Demo
 
-![Demo Animation](https://raw.githubusercontent.com/yourusername/custom-emotion-generator/main/assets/demo.gif)
+
 
 Watch a full video demonstration:
 
-[![Video demonstration](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Video demonstration](demo/Screen Recording 2025-03-29 at 1.42.03 PM.mov)]
 
 ## Troubleshooting
 
