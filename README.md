@@ -229,11 +229,10 @@ The UI is built with Gradio and structured into several components:
 
 ## Demo
 
-
-
 Watch a full video demonstration:
-[![Video demonstration](https://github.com/Akshat-Gupta04/Custom-Emotion-Generator/blob/main/demo/video.mp4)]
- **view a detailed video in the demo folder**
+
+https://github.com/user-attachments/assets/667c85d8-d2d5-4bf0-8ea0-367c54d8734a
+
 
 ## Troubleshooting
 
