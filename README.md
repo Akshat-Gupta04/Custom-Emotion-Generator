@@ -42,7 +42,7 @@ Required pretrained models:
 
 1. Clone the repository:
 ```
-git clone https://github.com/username/custom-emotion-generator.git
+git clone https://github.com/username/custom-emotion-generator.git](https://github.com/Akshat-Gupta04/Custom-Emotion-Generator.git
 cd custom-emotion-generator
 ```
 
