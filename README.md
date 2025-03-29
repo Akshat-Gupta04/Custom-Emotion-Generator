@@ -233,7 +233,7 @@ The UI is built with Gradio and structured into several components:
 
 Watch a full video demonstration:
 
-[![Video demonstration](demo/video.mov)]
+[![Video demonstration](demo/video.mp4)]
 
 ## Troubleshooting
 
