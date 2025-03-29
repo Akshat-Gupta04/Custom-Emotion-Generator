@@ -6,7 +6,7 @@ A powerful tool that generates expressive facial animations from a single refere
 
 Custom Emotion Generator uses advanced AI techniques to manipulate facial expressions in still images. With a simple and intuitive UI, you can adjust various parameters to create realistic emotional responses, including happiness, sadness, anger, surprise, and more.
 
-![Custom Emotion Generator](demo/Screenshot 2025-03-29 at 1.41.45 PM.png)
+![Custom Emotion Generator](demo/pic.png)
 
 ## Features
 
@@ -233,7 +233,7 @@ The UI is built with Gradio and structured into several components:
 
 Watch a full video demonstration:
 
-[![Video demonstration](demo/Screen Recording 2025-03-29 at 1.42.03 PM.mov)]
+[![Video demonstration](demo/video.mov)]
 
 ## Troubleshooting
 
@@ -242,20 +242,7 @@ Watch a full video demonstration:
 - **Poor Animation Quality**: Use a clearer reference image with good lighting and front-facing orientation
 - **Memory Issues**: Close other applications or reduce image resolution
 
-## Frequently Asked Questions
-
-### Q: What type of images work best?
-A: Clear, well-lit photos with a front-facing subject work best. The face should be clearly visible without extreme angles or occlusions.
-
-### Q: Can I use this for videos?
-A: This tool is designed for single images. For video processing, you would need to process each frame separately and combine them.
-
-### Q: How can I get more realistic results?
-A: Start with subtle adjustments and avoid extreme parameter values. The Source Ratio parameter can help maintain realism by preserving more of the original image.
-
-### Q: Is my data private when using this tool?
-A: Yes, all processing happens locally on your machine. No images are uploaded to external servers unless you enable the sharing option.
-
+- 
 ## License
 
 [MIT License](LICENSE)
@@ -266,21 +253,3 @@ A: Yes, all processing happens locally on your machine. No images are uploaded t
 - RealESRGAN for image restoration
 - Gradio framework for the web interface
 - All contributors and beta testers
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## Contact
-
-Project Link: [https://github.com/username/custom-emotion-generator](https://github.com/username/custom-emotion-generator)
-
----
-
-Made with ❤️ for the AI and creative community
